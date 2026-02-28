@@ -36,7 +36,7 @@ The system demonstrates **advanced ML techniques, feature engineering, and inter
 
 ## 🔹 Project Structure
 ```text
-dynamic-pricing-dashboard/
+Dynamic-Pricing-Dashboard/
 │
 ├── app.py                 # Streamlit interactive dashboard
 ├── demand_model.py        # XGBoost demand model + dynamic pricing engine
@@ -47,28 +47,20 @@ dynamic-pricing-dashboard/
 🔹 Installation
 
 Clone the repository:
-
 git clone https://github.com/VAISHALINISENTHILNATHAN/Dynamic-Pricing-Dashboard.git
 cd Dynamic-Pricing-Dashboard
 
 Install dependencies:
-
 pip install -r requirements.txt
 
 🔹 How to Run
-
 Launch the dashboard locally:
-
 streamlit run app.py
 
 Steps:
-
 Select a product from the sidebar
-
 View predicted demand
-
 See optimal price suggestion
-
 Explore historical sales trends
 
 🔹 Results & Insights
